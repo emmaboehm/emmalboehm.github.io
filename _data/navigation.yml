@@ -8,7 +8,8 @@ main:
     url: /teaching/ 
   
   - title: "CV"
-    url: /cv/
+    #url: /cv/
+    url: /files/cv_emma_boehm_august_2023_WEBSITE.pdf
     
   # - title: "Publications"
    # url: /publications/
