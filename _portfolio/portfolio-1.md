@@ -1,6 +1,6 @@
 ---
 title: "How does environmental distance influence local adaptation and the strength of selection?"
-excerpt: "Collinsia <br/><img src='/images/collinsia_for_website.jpeg'>"
+excerpt: "Collinsia <br/><img src='/images/collinsia_for_website.jpg'>"
 collection: portfolio
 ---
 
