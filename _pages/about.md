@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Emma and I'm currently a 5th year Ph.D. candidate in Dr. Jen Lau's lab at Indiana University. I'm broadly interested n how plant populations respond to rapid environmental change. Feel free to explore the site to learn a bit more about me! 
+Hi! My name is Emma and I'm currently a 5th year Ph.D. candidate in Dr. Jen Lau's lab at Indiana University. I'm broadly interested in how plant populations respond to rapid environmental change. Feel free to explore the site to learn a bit more about me! 
