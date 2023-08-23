@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "How does environmental distance influence local adaptation and the strength of selection?"
+excerpt: "Collinsia <br/><img src='/images/7B218580-4956-4D16-9374-BE71A6DAF600_1_105_c.jpeg'>"
 collection: portfolio
 ---
 
