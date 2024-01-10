@@ -7,5 +7,5 @@ collection: portfolio
 <br/><ins><strong>Current & Related Projects:<strong></ins> <br/><br/>
   
 Environmental distance explains differences in fitness components of a winter annual plant (in prep, Boehm & Lau)<br/>
-<br/> In progress:<br/> How does tree leaf out influence flowering phenology, phenotypic integration and plasticity, and expression of genetic variaion across populations sourced from a latitudinal gradient [greenhouse]?<br/>
-<br/> In progress:<br/> How does increased precipitation influence selection and plasticity [common garden]? 
+<br/> In progress [Collinsia verna, greenhouse]:<br/> How does development time differ between more northern and more southern populations? How does tree leaf out influence flowering phenology in populations sourced along a latitudinal gradient? Does phenotypic integration (i.e., tight correlations between traits with similar functions or developmental origins) and plasticity vary among populations across the range and treatments?<br/>
+<br/> In progress [Collinsia verna, common garden]:<br/> How does increased precipitation influence selection and plasticity? 
