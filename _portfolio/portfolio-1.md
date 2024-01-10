@@ -4,4 +4,8 @@ excerpt: "Populations may exhibit local adaptation due to a suite of abiotic and
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<br/><strong>Current & Related Projects:<strong><br/><br/>
+  
+Environmental distance explains differences in fitness components of a winter annual plant (in prep, Boehm & Lau)
+<br/> In progress:<br/> How does tree leaf out influence flowering phenology, phenotypic integration and plasticity, and expression of genetic variaion across populations sourced from a latitudinal gradient [greenhouse]?<br/>
+<br/> In progress:<br/> How does increased precipitation influence selection and plasticity [common garden]? 
