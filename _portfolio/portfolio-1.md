@@ -4,7 +4,7 @@ excerpt: "Populations may exhibit local adaptation due to a suite of abiotic and
 collection: portfolio
 ---
 
-<br/><ins><strong>Current & Related Projects:<strong></ins> <br/><br/>
+<br/><ins><strong>Current & Related Projects:<strong><ins> <br/><br/>
   
 Environmental distance explains differences in fitness components of a winter annual plant (in prep, Boehm & Lau)<br/>
 <br/> In progress [Collinsia verna, greenhouse]:<br/> How does development time differ between more northern and more southern populations? How does tree leaf out influence flowering phenology in populations sourced along a latitudinal gradient? Does phenotypic integration (i.e., tight correlations between traits with similar functions or developmental origins) and plasticity vary among populations across the range and treatments?<br/>
