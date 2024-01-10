@@ -1,5 +1,5 @@
 ---
-title: "How does environmental distance influence local adaptation and the strength of selection?<img src='/images/collinsia_for_website.jpg' align='right' width='100' height='100'>"
+title: "How does environmental distance influence local adaptation and the strength of selection?<img src='/images/collinsia_for_website.jpg' align='right' width='400' height='400'>"
 excerpt: "Collinsia <br/>"
 collection: portfolio
 ---
