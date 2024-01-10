@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Experience"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
@@ -8,7 +8,7 @@ date: 2015-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I have served as an assistant instructor ("AI" at Indiana University, equivalent to a teach assistant) for a number of courses ranging from non-majors biology to honors level evolution. I also completed the Graduate Teaching Apprenticeship Program [https://citl.indiana.edu/programs/ai-support/grad-apprentice-program/gtap-award.html] through the Center for Innovative Teaching and Learning at Indiana University.  
 
 Heading 1
 ======
