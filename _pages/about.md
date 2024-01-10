@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Plant Evolutionary Ecology"
+title: "<div style='text-align: center;'> Plant Evolutionary Ecology </div>"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
