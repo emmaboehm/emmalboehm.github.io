@@ -4,15 +4,15 @@ main:
   - title: "Research Interests"
     url: /portfolio/
 
+- title: "Publications"
+   url: /publications/
+  url: https://scholar.google.com/citations?user=2-sSgGYAAAAJ&hl=en&oi=ao
+  
   - title: "Teaching & Outreach"
     url: /teaching/ 
   
   - title: "CV"
     url: /cv/
-    
-  # - title: "Publications"
-   # url: /publications/
-  # url: https://scholar.google.com/citations?user=2-sSgGYAAAAJ&hl=en&oi=ao
   
  # - title: "Talks"
  #   url: /talks/    
