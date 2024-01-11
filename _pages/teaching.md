@@ -1,8 +1,6 @@
 ---
-layout: archive
 title: "Teaching"
 permalink: /teaching/
-author_profile: true
 ---
 ## Teaching Experience
 I have served as an assistant instructor ("AI" at Indiana University, equivalent to a teach assistant) for a number of courses ranging from non-majors biology to honors level evolution. 
